@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+#root {
+  padding: 3rem;
+  text-align: center;
+}
+
+#root h1 {
+  font-family: "Rubik Bubbles", Courier, monospace;
+  font-size: 40px;
+}
+
+#root canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+#root h1 span {
+  padding-right: 4px;
+}
